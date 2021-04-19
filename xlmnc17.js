@@ -1,4 +1,4 @@
-cconst arr = [1, 2, 3, 4,6,3,4,5,3,4,2];
+const arr = [1, 2, 3, 4,6,3,4,5,3,4,2];
 
 console.log(arr);
 var arr1 =[];
