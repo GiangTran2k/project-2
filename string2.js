@@ -6,4 +6,3 @@ for (let index = 0; index < a.length; index++) {
   console.log(a[index])
   
 }
-console.log(a)
